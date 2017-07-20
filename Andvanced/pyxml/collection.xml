@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection shelf="Arthur's Collections"> <!-- root -->
+	<drama title="24"> <!--树枝-->
+	   <type>War, Thriller</type>
+	   <format>DVD</format> <!--叶子-->
+	   <year>2003</year>
+	   <rating>PG</rating>
+	   <stars>10</stars>
+	   <description>About counter terrorist unit</description>
+	</drama>
+	<drama title="The Pacific">
+		<type>War, History</type>
+		<format>BlueRay</format>
+		<year>2001</year>
+		<rating>PG</rating>
+		<stars>10</stars>
+		<description>World War II, in Pacific</description>
+	</drama>
+	<drama title="Homeland">
+		<type>Spy</type>
+		<format>DVD</format>
+		<year>2012</year>
+		<rating>PG</rating>
+		<stars>8</stars>
+		<description>A insane woman protect US.</description>
+	</drama>
+</collection>
